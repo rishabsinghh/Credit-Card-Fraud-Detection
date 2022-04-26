@@ -1,0 +1,5 @@
+2022-04-24 19:29:31.336831 Training Started
+2022-04-24 19:39:02.531202 Training Started
+2022-04-24 19:44:38.967395 Training Started
+2022-04-24 19:44:38.969122 Entered into load_data method of Data_loader class
+2022-04-24 19:44:38.973324 Error in loading data: Can't get attribute 'new_block' on <module 'pandas.core.internals.blocks' from 'C:\\Users\\singh-93\\Anaconda3\\envs\\Credit_cardFDS\\lib\\site-packages\\pandas\\core\\internals\\blocks.py'>
